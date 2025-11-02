@@ -1,0 +1,10 @@
+c casa + 1 do lado
+c MAX CLIQUE: [2, 5, 6]
+p edge 6 7
+e 1 2
+e 2 3
+e 3 4
+e 2 5
+e 2 6
+e 4 5
+e 5 6
